@@ -7,6 +7,7 @@ using System.ServiceModel.Description;
 using System.Text;
 using System.Threading.Tasks;
 
+//some comment
 namespace ConsoleHost
 {
     class Program
