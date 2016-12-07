@@ -1,0 +1,8 @@
+D:\Projects\_WCF\EvalServiceLibrary2\ConsoleHost\bin\Debug\ConsoleHost.exe.config
+D:\Projects\_WCF\EvalServiceLibrary2\ConsoleHost\bin\Debug\ConsoleHost.exe
+D:\Projects\_WCF\EvalServiceLibrary2\ConsoleHost\bin\Debug\ConsoleHost.pdb
+D:\Projects\_WCF\EvalServiceLibrary2\ConsoleHost\bin\Debug\EvalServiceLibrary2.dll
+D:\Projects\_WCF\EvalServiceLibrary2\ConsoleHost\bin\Debug\EvalServiceLibrary2.pdb
+D:\Projects\_WCF\EvalServiceLibrary2\ConsoleHost\obj\Debug\ConsoleHost.csprojResolveAssemblyReference.cache
+D:\Projects\_WCF\EvalServiceLibrary2\ConsoleHost\obj\Debug\ConsoleHost.exe
+D:\Projects\_WCF\EvalServiceLibrary2\ConsoleHost\obj\Debug\ConsoleHost.pdb

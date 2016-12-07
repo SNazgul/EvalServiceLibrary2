@@ -1,0 +1,5 @@
+D:\Projects\_WCF\EvalServiceLibrary2\EvalServiceLibrary2\bin\Debug\EvalServiceLibrary2.dll.config
+D:\Projects\_WCF\EvalServiceLibrary2\EvalServiceLibrary2\bin\Debug\EvalServiceLibrary2.dll
+D:\Projects\_WCF\EvalServiceLibrary2\EvalServiceLibrary2\bin\Debug\EvalServiceLibrary2.pdb
+D:\Projects\_WCF\EvalServiceLibrary2\EvalServiceLibrary2\obj\Debug\EvalServiceLibrary2.dll
+D:\Projects\_WCF\EvalServiceLibrary2\EvalServiceLibrary2\obj\Debug\EvalServiceLibrary2.pdb
